@@ -104,7 +104,7 @@ npm run build        # Build for production
 nom run preview      # Preview production build
 npm run deploy       # Deploy via Docker Compose
 ```
-To use the deploy script you need a docker-compose.yml file!
+
 ## 🐳 Deployment
 
 ### Using Docker
